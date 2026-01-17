@@ -116,6 +116,13 @@ h1{
     transform: translate(-50%,-50%) rotate(-29deg);
     width: 54vw;
 }
+
+.shoe:hover{
+    transform: translate(-50%,-50%);
+    bottom: 0;
+    
+}
+
 .hero-inner{
     position: absolute;
     width: 100%;
